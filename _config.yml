@@ -1,4 +1,4 @@
-theme: jetbrains-oss-jekyll-theme
+remote_theme: JetBrains/jetbrains-oss-jekyll-theme
 
 github_username:  kisenka
 twitter_username: electrokisenka
